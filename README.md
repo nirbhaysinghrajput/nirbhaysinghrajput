@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Nirbhay Singh 👋
 
-<!--
-**nirbhaysinghrajput/nirbhaysinghrajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on software development, problem solving, and building real-world applications.
 
-Here are some ideas to get you started:
+## 🚀 Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Solving DSA problems in Java
+* Building AuthZen – Authentication & Directory Management System
+* Starting DevConnect using the MEAN stack
+* Learning AWS Cloud fundamentals
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+* Java
+* JavaScript
+* Python
+* C
+
+### Development
+
+* Node.js
+* Express.js
+* Flask / FastAPI
+* REST APIs
+* JWT Authentication
+* React (Learning)
+
+### Databases
+
+* MongoDB
+* MySQL
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* Postman
+* VS Code
+* IntelliJ IDEA
+* AWS (Learning)
+
+---
+
+## 📌 Current Learning Goals
+
+* Improve DSA and problem-solving skills
+* Build scalable web applications
+* Strengthen API development knowledge
+* Learn Docker and Kubernetes in the future
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/nirbhay-singh-b76630319/
+* GitHub: https://github.com/nirbhaysinghrajput
+* Email: [singh.nirbhay.work@gmail.com](mailto:singh.nirbhay.work@gmail.com)
