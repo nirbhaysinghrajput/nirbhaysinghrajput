@@ -6,6 +6,7 @@ Computer Science student focused on software development, problem solving, and b
 
 * Solving DSA problems in Java
 * Building AuthZen – Authentication & Directory Management System
+* VaultDrop — Instant file & text sharing with persistent account-based spaces and realtime collaboration.
 * Starting DevConnect using the MEAN stack
 * Learning AWS Cloud fundamentals
 
