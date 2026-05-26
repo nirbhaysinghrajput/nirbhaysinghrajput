@@ -109,8 +109,8 @@ Built a real-time communication system for instant file/text sharing using WebRT
 
 ## 📫 Connect With Me
 
-- GitHub: github.com/nirbhaysinghrajput  
-- LinkedIn: Nirbhay Singh  
+- GitHub: https://github.com/nirbhaysinghrajput/
+- LinkedIn: https://www.linkedin.com/in/nirbhay-singh-b76630319/
 - Email: singh.nirbhay.work@gmail.com  
 
 ---
