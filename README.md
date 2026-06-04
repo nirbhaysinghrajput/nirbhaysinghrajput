@@ -67,13 +67,16 @@ Git, GitHub, VS Code, IntelliJ IDEA, AWS (Learning)
 
 ## 💼 Projects
 
-### 🔐 AuthZen – Authentication & Directory Management System  
+### 🔐 AuthZen – Authentication & Directory Management System  (ongoing)
 Designed a scalable backend authentication system with JWT-based authentication, Role-Based Access Control (RBAC), and RESTful APIs following modular architecture principles.
 
 ---
 
-### ☁️ VaultDrop – Instant Share & Persistent Spaces  
-Built a real-time communication system for instant file/text sharing using WebRTC and Socket.IO, along with persistent storage and URL shortening features.
+### ☁️ # VaultDrop
+
+VaultDrop is a full-stack real-time content sharing platform that enables users to securely share files, text, and URLs through unique share codes and password-protected transfers. Built using the MERN stack and Socket.IO, the platform delivers instant communication between senders and receivers while maintaining security, simplicity, and ease of use.
+
+The application combines authentication, real-time communication, secure data transfer, and activity tracking into a single platform, making it suitable for quick and reliable content exchange across devices and users.
 
 ---
 
