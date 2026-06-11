@@ -8,9 +8,11 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science student focused on backend development, system design fundamentals, and building real-world scalable applications.
+I am a Computer Science student with a strong interest in software engineering, backend development, and system design. I enjoy building scalable and reliable applications while continuously improving my understanding of data structures, algorithms, databases, and distributed systems.
 
-I enjoy understanding how systems work internally and prefer building functional, production-oriented backend systems over surface-level projects.
+I am particularly interested in understanding how software works under the hood and how different components interact to create efficient, production-ready systems. I enjoy solving challenging problems, writing clean and maintainable code, and applying engineering principles to build practical solutions.
+
+Through academic learning and hands-on projects, I have been developing my skills in backend technologies, software architecture, and system design fundamentals. I am motivated by opportunities to learn, collaborate, and contribute to impactful products, and I aspire to grow as a software engineer by building systems that are scalable, reliable, and user-focused.
 
 ---
 
