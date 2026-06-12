@@ -1,104 +1,124 @@
 # 👋 Hi, I'm Nirbhay Singh
 
-🚀 Aspiring Software Development Engineer (SDE)  
-💻 Backend Developer | Open Source Contributor  
-🧠 Problem Solver | DSA in Java  
+🚀 Aspiring Software Development Engineer (SDE)
+💻 Backend Developer | Open Source Contributor
+🧠 Problem Solver | DSA in Java
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Computer Science student with a strong interest in software engineering, backend development, and system design. I enjoy building scalable and reliable applications while continuously improving my understanding of data structures, algorithms, databases, and distributed systems.
+I am a Computer Science student with a strong interest in software engineering, backend development, and distributed systems. I enjoy building scalable, reliable, and maintainable applications while continuously strengthening my understanding of data structures, algorithms, databases, system design, and software architecture.
 
-I am particularly interested in understanding how software works under the hood and how different components interact to create efficient, production-ready systems. I enjoy solving challenging problems, writing clean and maintainable code, and applying engineering principles to build practical solutions.
+I am particularly interested in understanding how large-scale systems are designed, optimized, and operated in production environments. I enjoy solving challenging problems, writing clean and efficient code, and applying engineering principles to develop practical and impactful solutions.
 
-Through academic learning and hands-on projects, I have been developing my skills in backend technologies, software architecture, and system design fundamentals. I am motivated by opportunities to learn, collaborate, and contribute to impactful products, and I aspire to grow as a software engineer by building systems that are scalable, reliable, and user-focused.
+Through academic learning, hands-on projects, and open-source contributions, I have been developing my skills in backend engineering, API development, database design, and system design fundamentals. I am motivated by opportunities to learn, collaborate, and contribute to meaningful products while growing as a software engineer.
 
 ---
 
 ## 🧠 What I Focus On
 
-- Backend system design and API development  
-- Authentication systems and secure architecture  
-- Real-time applications using WebSockets  
-- Data Structures & Algorithms in Java  
-- Writing clean, scalable, and maintainable code  
+* Backend engineering and scalable API development
+* Authentication, authorization, and secure system design
+* Real-time applications using WebSockets
+* Data Structures & Algorithms in Java
+* Software architecture and design principles
+* Writing clean, maintainable, and production-ready code
 
 ---
 
 ## 🚧 Projects
 
-### 🔐 VaultDrop – Real-time File & Text Sharing + URL Shortener
-- Built a backend system for real-time file and text sharing with URL shortening and redirection
-- Designed REST APIs for upload, transfer, and URL management
-- Implemented real-time communication using Socket.IO
-- Tech Stack: Node.js, Express.js, MongoDB, Socket.IO, JWT
+### 🔐 VaultDrop – Real-Time File & Text Sharing Platform + URL Shortener
+
+* Built a backend platform for real-time file and text sharing with integrated URL shortening and redirection services
+* Designed and implemented RESTful APIs for file transfer, content management, and URL operations
+* Enabled real-time communication using Socket.IO
+* Focused on scalability, modularity, and efficient backend architecture
+
+**Tech Stack:** Node.js, Express.js, MongoDB, Socket.IO, JWT
 
 ---
 
 ### 🔑 AuthZen – Authentication & Access Control System
-- Backend system for secure authentication and role-based access control (RBAC)
-- Implemented JWT-based authentication and protected APIs
-- Currently refactoring architecture for better scalability and modular design
-- Focused on secure REST API development and backend design principles
+
+* Developed a secure authentication and role-based access control (RBAC) system
+* Implemented JWT-based authentication and authorization workflows
+* Designed protected APIs with security-focused backend practices
+* Refactoring the architecture to improve scalability, maintainability, and separation of concerns
+
+**Tech Stack:** Node.js, Express.js, MongoDB, JWT
 
 ---
 
 ## 🌱 Open Source
 
 ### GirlScript Summer of Code (GSSoC) – Contributor
-- Contributing to real-world open-source projects
-- Working with Git, GitHub, pull requests, and code reviews
-- Gaining experience in collaborative software development workflows
+
+* Contributing to real-world open-source projects
+* Collaborating through GitHub workflows, pull requests, and code reviews
+* Gaining hands-on experience in large-scale collaborative software development
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, JavaScript, Python, C  
+### Languages
 
-**Backend:** Node.js, Express.js, Flask  
+Java, JavaScript, Python, C
 
-**Databases:** MongoDB, MySQL  
+### Backend
 
-**Core CS:** DSA, OOPs, DBMS, OS, Software Engineering, Computer Networks (Basic), System Design (Learning)  
+Node.js, Express.js, Flask
 
-**Tools:** Git, GitHub, VS Code, IntelliJ IDEA, AWS (Learning), Google Antigravity IDE  
+### Databases
+
+MongoDB, MySQL
+
+### Core Computer Science
+
+Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Software Engineering, Computer Networks, System Design Fundamentals
+
+### Tools & Platforms
+
+Git, GitHub, VS Code, IntelliJ IDEA, AWS (Learning)
 
 ---
 
 ## 📚 Currently Learning
 
-- System Design fundamentals  
-- Advanced backend architecture patterns  
-- Machine Learning concepts (hands-on practice)  
-- Scalable system development practices  
+* System Design and Distributed Systems
+* Scalable Backend Architecture Patterns
+* Cloud Computing and AWS Services
+* Machine Learning Fundamentals
+* Production-Grade Software Development Practices
 
 ---
 
 ## 📊 Coding Profile
 
-- Consistent DSA practice in Java  
-- HackerRank: 3⭐ Problem Solving | 2⭐ Java  
+* Consistent Data Structures & Algorithms practice in Java
+* HackerRank: 3⭐ Problem Solving | 2⭐ Java
+* Actively solving algorithmic and problem-solving challenges
 
 ---
 
 ## 🎯 Goals
 
-- Become a strong backend engineer  
-- Build scalable production-level systems  
-- Contribute more to open source  
-- Crack SDE internship/full-time opportunities  
+* Become a strong Software Development Engineer
+* Design and build scalable production-grade systems
+* Contribute actively to open-source communities
+* Secure impactful SDE internship and full-time opportunities
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/nirbhaysinghrajput  
-- LinkedIn: https://www.linkedin.com/in/nirbhay-singh-b76630319/  
-- Email: singh.nirbhay.work@gmail.com  
-- Codolio: https://codolio.com/profile/nirbhay_singh  
+* GitHub: https://github.com/nirbhaysinghrajput
+* LinkedIn: https://www.linkedin.com/in/nirbhay-singh-b76630319/
+* Email: [singh.nirbhay.work@gmail.com](mailto:singh.nirbhay.work@gmail.com)
+* Codolio: https://codolio.com/profile/nirbhay_singh
 
 ---
 
-⭐ Always learning, building, and improving.
+⭐ Passionate about learning, building, and continuously improving as a software engineer.
