@@ -79,7 +79,6 @@ Through personal projects, open-source contributions, and continuous learning, I
 ## 📚 Currently Learning
 
 * System Design Fundamentals
-* Backend Architecture Patterns
 * Cloud Computing (AWS)
 * Machine Learning Fundamentals
 
