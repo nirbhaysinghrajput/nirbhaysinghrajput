@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nirbhay Singh
 
-🚀 Aspiring Software Development Engineer (SDE)
-💻 Backend Development Enthusiast | Open Source Contributor
+🚀 Aspiring Software Development Engineer (SDE)<br>
+💻 Backend Development Enthusiast | Open Source Contributor<br>
 🧠 DSA in Java | Continuous Learner
 
 ---
