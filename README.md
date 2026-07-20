@@ -113,31 +113,40 @@ Python • Flask • Gemini API • LLM Applications
 
 ---
 
-# 🔑 AuthZen — Identity & Access Management System
+## 🔑 AuthZen — Identity & Access Management System (Academic Team Project)
 
-### Problem
+### Overview
 
-Modern applications require secure user authentication and controlled access management.
+A team-based academic project focused on designing a secure authentication and authorization system for managing user identity and access control.
 
-### Product Goal
+### Product & Collaboration
 
-Build a secure authentication foundation that enables reliable user management.
+Working with a 4-member team, I contributed to:
+
+- Understanding project requirements and user access needs
+- Discussing workflows for authentication and authorization
+- Prioritizing features based on project objectives
+- Documenting technical decisions and implementation approaches
+- Collaborating with teammates throughout development
 
 ### User Value
 
-- Secure user access
-- Better permission control
-- Improved application reliability
+The system focuses on:
 
-### Collaboration & Engineering
+- Secure user authentication
+- Controlled access through role-based permissions
+- Reliable identity management
+- Better security practices for applications
 
-- Worked in a team environment
-- Contributed to requirement analysis
-- Participated in workflow planning and technical decisions
-- Designed backend authentication flows
+### Technical Contribution
+
+- Worked on backend implementation and system workflows
+- Contributed to database design decisions
+- Implemented authentication-related functionality
+- Applied concepts of secure API development
 
 **Tech Stack:**  
-Node.js • Express.js • MongoDB • JWT
+Flask • MySQL • MongoDB • JWT • RBAC
 
 ---
 
