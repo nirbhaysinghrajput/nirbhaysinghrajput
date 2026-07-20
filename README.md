@@ -280,25 +280,104 @@ Focused on:
 
 ---
 
-# 🛠️ Technical Skills
+# 🧠 Product Skills
 
-### Languages
+### Product Management
+- Product Discovery
+- User Problem Identification
+- User Journey Mapping
+- Product Requirement Documents (PRDs)
+- Feature Prioritization
+- MVP Definition
+- Product Roadmapping
+- User Experience Thinking
+- Product Metrics & Success Criteria
+- Competitive Analysis
+- Agile Product Development
+- Stakeholder Communication
+
+### Product Thinking
+- Translating user problems into product solutions
+- Defining product goals and outcomes
+- Evaluating feature impact
+- Making product trade-offs
+- Designing scalable product experiences
+
+---
+
+# 💻 Technical Skills
+
+### Programming Languages
 Java • Python • JavaScript • C
 
 ### Backend Development
-Node.js • Express.js • Flask • REST APIs
+Node.js • Express.js • Flask  
+REST APIs • Authentication Systems • API Design
+
+### Frontend Development
+React.js • HTML • CSS • JavaScript
 
 ### Databases
 MongoDB • MySQL
 
-### AI & Product Development
-LLM Applications • Gemini API • Prompt Engineering • AI Workflows
+### AI Application Development
+LLM Applications • Gemini API Integration  
+AI-powered Workflows • Prompt Engineering
 
-### Product Tools
-Notion • Figma • Jira • Draw.io • PowerPoint
+### Tools & Platforms
+Git • GitHub • VS Code • IntelliJ IDEA  
+Notion • Figma • Jira • Draw.io
 
-### Developer Tools
-Git • GitHub • VS Code
+---
+
+# 📚 Core Computer Science Fundamentals
+
+### Data Structures & Algorithms (DSA)
+- Problem Solving
+- Algorithm Design
+- Complexity Analysis
+- Competitive Programming Practice
+
+### Object-Oriented Programming (OOP)
+- Classes & Objects
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Design Principles
+
+### Database Management Systems (DBMS)
+- Database Design
+- SQL Queries
+- Data Modeling
+- Normalization
+- Database Management Concepts
+
+### Operating Systems (OS)
+- Processes & Threads
+- Memory Management
+- File Systems
+- Operating System Concepts
+
+### Computer Networks (CN)
+- Network Fundamentals
+- HTTP/HTTPS
+- Client-Server Architecture
+- Communication Protocols
+
+### Software Engineering
+- Software Development Life Cycle (SDLC)
+- Software Design Principles
+- Version Control Practices
+- Testing & Debugging
+- Agile Development
+
+### Design Thinking
+- Empathy & User Research
+- Problem Definition
+- Ideation
+- Prototyping
+- Iterative Improvement
+
 
 ---
 
