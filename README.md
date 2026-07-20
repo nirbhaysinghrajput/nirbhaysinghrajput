@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Nirbhay Singh
 
--🚀 Aspiring Technical Product Manager | Computer Science Student
--💻 Building Technology Products with Engineering Foundations
--🧠 Exploring Product Strategy, AI Applications, and User Experience
+- 🚀 Aspiring Technical Product Manager | Computer Science Student
+- 💻 Building Technology Products with Engineering Foundations
+- 🧠 Exploring Product Strategy, AI Applications, and User Experience
 
 ---
 
