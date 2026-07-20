@@ -1,151 +1,202 @@
 # 👋 Hi, I'm Nirbhay Singh
 
-🚀 Aspiring Technical Product Manager | AI Product Builder  
-💻 Computer Science Student | Full-Stack & Backend Developer  
-🧠 Building user-focused products with strong engineering foundations  
+🚀 Aspiring Technical Product Manager | Computer Science Student
+💻 Building Technology Products with Engineering Foundations
+🧠 Exploring Product Strategy, AI Applications, and User Experience
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Computer Science student specializing in Artificial Intelligence, passionate about building technology products that solve real user problems.
+I am a Computer Science student specializing in Artificial Intelligence, passionate about building technology products that solve meaningful user problems.
 
-My interest lies at the intersection of **product thinking and software engineering** — understanding user needs, defining solutions, prioritizing features, and transforming ideas into scalable applications.
+My approach combines **product thinking with engineering execution** — understanding user needs, defining solutions, prioritizing features, and transforming ideas into functional software.
 
-With hands-on experience in backend development, AI-powered applications, and full-stack projects, I enjoy working across the product lifecycle — from identifying problems and designing workflows to implementing and improving solutions.
+I enjoy working across the complete product lifecycle:
 
-I believe great products are created by combining:
-- User understanding
-- Clear product decisions
-- Strong technical execution
+- Identifying user pain points
+- Understanding user workflows
+- Designing product solutions
+- Prioritizing MVP features
+- Building and improving scalable applications
+
+With a strong foundation in backend development, AI applications, and software engineering, I aim to bridge the gap between product vision and technical implementation.
 
 ---
 
-## 🎯 Product & Engineering Focus
+# 🎯 My Product Philosophy
 
-### Product Skills
-- Product Discovery
-- User Problem Analysis
-- User Journey Mapping
-- Feature Prioritization
-- MVP Definition
-- Product Requirement Documents (PRDs)
-- Product Metrics & Success Criteria
-- Agile Development Practices
+Great products are built by solving real problems, not just adding features.
 
-### Technical Skills
-- Backend Development
-- REST API Design
-- Database Architecture
-- AI Application Development
-- LLM-based Solutions
-- Full-Stack Product Development
+While building projects, I focus on:
+
+- Who is the user?
+- What problem are they facing?
+- Why does this solution provide value?
+- Which features create the highest impact?
+- How can technology improve the experience?
 
 ---
 
 # 🚀 Featured Product Builds
 
-## 🔐 VaultDrop — Secure File, Text Sharing & URL Management Platform
+## 🔐 VaultDrop — Secure Content Sharing Platform
 
-A privacy-focused content sharing platform designed around secure communication and simplified user workflows.
+### Problem
 
-### Product Thinking:
-- Defined user journeys for authentication, sharing, permissions, expiry handling, and content lifecycle management.
-- Identified user needs around secure and controlled information sharing.
-- Designed features with scalability and user experience in mind.
+Sharing files, text, and information digitally often involves challenges around:
+- Privacy
+- Access control
+- Secure sharing
+- Managing content lifecycle
 
-### Engineering:
-- Built backend services using Node.js and Express.js.
-- Implemented REST APIs, JWT authentication, and MongoDB-based data management.
-- Designed modular backend architecture.
+### Product Goal
+
+Build a simple and secure experience where users can share information with better control and flexibility.
+
+### User Value
+
+- Enables controlled content sharing
+- Reduces complexity in sharing workflows
+- Provides secure access management
+- Improves user confidence while sharing sensitive information
+
+### Product Thinking
+
+- Designed user journeys around authentication, sharing, permissions, and expiry handling
+- Considered usability and security trade-offs
+- Defined workflows before implementation
+
+### Engineering
+
+- Developed backend services using Node.js and Express.js
+- Built REST APIs for content management
+- Implemented JWT authentication
+- Designed MongoDB-based data handling
 
 **Tech Stack:**  
 Node.js • Express.js • MongoDB • JWT • REST APIs
 
-
 ---
 
-## 🤖 CodeSense AI — LLM-Based Developer Productivity Assistant
+# 🤖 CodeSense AI — AI-Powered Developer Assistant
 
-An AI-powered product helping developers understand code, identify issues, and improve implementation quality.
+### Problem
 
-### Product Thinking:
-- Designed workflow from user input → AI analysis → actionable recommendations.
-- Focused on improving developer productivity and learning experience.
-- Defined product value around faster understanding and better coding decisions.
+Developers often spend significant time understanding unfamiliar code, debugging issues, and improving implementation quality.
 
-### Engineering:
-- Integrated Gemini API with Flask backend.
-- Built AI workflows for code explanation and improvement suggestions.
-- Explored LLM application development.
+### Product Goal
+
+Create an AI-assisted experience that helps developers understand code faster and make better technical decisions.
+
+### User Value
+
+- Helps developers understand complex code
+- Provides explanations and improvement suggestions
+- Reduces learning time for unfamiliar technologies
+- Supports continuous improvement
+
+### Product Thinking
+
+- Designed workflow from user input → AI processing → actionable insights
+- Focused on developer productivity and learning experience
+- Considered how AI can support, not replace, developer decision-making
+
+### Engineering
+
+- Integrated LLM capabilities using Gemini API
+- Built backend workflows using Flask
+- Explored AI application architecture
 
 **Tech Stack:**  
 Python • Flask • Gemini API • LLM Applications
 
-
 ---
 
-## 🔑 AuthZen — Identity & Access Management System
+# 🔑 AuthZen — Identity & Access Management System
 
-Enterprise authentication and authorization solution developed as a team project.
+### Problem
 
-### Product & Collaboration:
-- Participated in requirement analysis and feature planning.
-- Contributed to workflow design, technical decisions, and documentation.
+Modern applications require secure user authentication and controlled access management.
 
-### Engineering:
-- Implemented authentication workflows.
-- Worked with database design and backend architecture.
+### Product Goal
+
+Build a secure authentication foundation that enables reliable user management.
+
+### User Value
+
+- Secure user access
+- Better permission control
+- Improved application reliability
+
+### Collaboration & Engineering
+
+- Worked in a team environment
+- Contributed to requirement analysis
+- Participated in workflow planning and technical decisions
+- Designed backend authentication flows
 
 **Tech Stack:**  
 Node.js • Express.js • MongoDB • JWT
 
-
 ---
 
-# 📌 Product Case Studies
+# 📌 Product Exploration
 
-## 📚 ChatGPT Learning Mode — Product Improvement Case Study
+## Developer Professional Identity & Career Visibility
 
-Explored how AI learning experiences can be improved through structured learning paths.
+### Problem
 
-Covered:
-- User problems
-- Feature opportunities
-- MVP prioritization
-- Success metrics
-- User engagement strategies
+Developers build valuable experiences through:
 
+- Projects
+- Open-source contributions
+- Hackathons
+- Certifications
+- Learning journeys
 
-## 🧠 AI-Based Project Understanding Assessment Platform
+However, these achievements often remain scattered across different platforms.
 
-Designed an AI product concept to evaluate whether users truly understand their projects.
+### Product Opportunity
 
-Explored:
-- User pain points
-- Assessment workflow
-- AI-based evaluation
-- Trust and accuracy challenges
+Exploring how developers can build a structured professional identity that represents their skills, growth, and proof-of-work.
 
+### User Impact
+
+Potential benefits:
+
+- Helps developers showcase their journey beyond traditional resumes
+- Makes technical achievements easier to communicate
+- Helps recruiters understand practical skills better
+- Encourages continuous growth and learning
+
+### Product Areas Explored
+
+- Developer profiles
+- Project storytelling
+- Skill representation
+- Growth tracking
+- AI-assisted professional presentation
 
 ---
 
 # 🌱 Open Source Experience
 
-## GirlScript Summer of Code (GSSoC) — Contributor
+## GirlScript Summer of Code (GSSoC)
 
-- Collaborated through GitHub workflows.
-- Worked with issues, pull requests, and community-driven development.
-- Learned collaborative software development practices.
+- Collaborated using GitHub workflows
+- Worked with issues and pull requests
+- Learned community-driven development practices
+- Experienced collaborative software development workflows
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
 ### Languages
 Java • Python • JavaScript • C
 
-### Backend
+### Backend Development
 Node.js • Express.js • Flask • REST APIs
 
 ### Databases
@@ -154,8 +205,11 @@ MongoDB • MySQL
 ### AI & Product Development
 LLM Applications • Gemini API • Prompt Engineering • AI Workflows
 
-### Tools
-Git • GitHub • Notion • Figma • Jira • Draw.io • VS Code
+### Product Tools
+Notion • Figma • Jira • Draw.io • PowerPoint
+
+### Developer Tools
+Git • GitHub • VS Code
 
 ---
 
@@ -163,44 +217,43 @@ Git • GitHub • Notion • Figma • Jira • Draw.io • VS Code
 
 - Technical Product Management
 - System Design Fundamentals
-- Cloud Computing (AWS)
 - AI Product Development
+- Cloud Technologies
 - User Research & Product Strategy
-
 
 ---
 
 # 📊 Problem Solving
 
 - Solved 300+ DSA problems across coding platforms
-- HackerRank problem-solving practice
-- Continuously improving engineering fundamentals
-
+- Practicing Data Structures and Algorithms in Java
+- Improving software engineering fundamentals
 
 ---
 
 # 🎯 Goals
 
-- Build impactful AI-powered products
+- Build products that create meaningful user impact
 - Develop strong product management skills
-- Combine technical execution with user-focused thinking
-- Collaborate with engineering and business teams
-- Grow as a Technical Product Manager
-
+- Continue improving technical depth
+- Work at the intersection of users, technology, and business
 
 ---
 
 # 📫 Connect With Me
 
-GitHub: https://github.com/nirbhaysinghrajput
+GitHub:
+https://github.com/nirbhaysinghrajput
 
-LinkedIn: https://www.linkedin.com/in/nirbhay-singh-b76630319/
+LinkedIn:
+https://www.linkedin.com/in/nirbhay-singh-b76630319/
 
-Email: singh.nirbhay.work@gmail.com
+Email:
+singh.nirbhay.work@gmail.com
 
-Codolio: https://codolio.com/profile/nirbhay_singh
-
+Codolio:
+https://codolio.com/profile/nirbhay_singh
 
 ---
 
-⭐ Building products by combining product thinking, AI, and engineering.
+⭐ Building products by combining user understanding, AI, and engineering.
